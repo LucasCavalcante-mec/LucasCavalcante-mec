@@ -1,7 +1,4 @@
 # Olá, sou um apaixonado por tecnologia e aprender
-<p align="center">
-  <img src="https://vercel.app" alt="Estatísticas do GitHub" />
-</p>
 
 🚀 Estudante de Engenharia Mecânica apaixonado por tecnologia e aprender 🖥️
 
