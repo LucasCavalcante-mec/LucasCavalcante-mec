@@ -1,5 +1,5 @@
 # Olá, sou um apaixonado por tecnologia e aprender
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+my+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'am+Lucas+cavalcante;Welcome+to+my+Github)](https://git.io/typing-svg)
 
 🚀 Estudante de Engenharia Mecânica apaixonado por tecnologia e aprender 🖥️
 
