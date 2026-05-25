@@ -1,4 +1,5 @@
 # Olá, sou um apaixonado por tecnologia e aprender
+[![Typing SVG](https://demolab.com!)](https://git.io)
 
 🚀 Estudante de Engenharia Mecânica apaixonado por tecnologia e aprender 🖥️
 
