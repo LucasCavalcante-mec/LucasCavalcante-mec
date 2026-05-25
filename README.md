@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'am+Lucas+Cavalcante;Welcome+to+my+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'am+Lucas+Cavalcante;Welcome+to+my+Github!)](https://git.io/typing-svg)
 
 🚀 Estudante de Engenharia Mecânica apaixonado por tecnologia e aprender 🖥️
 
